@@ -3,10 +3,8 @@
 This python program can do multiple file editing option. The option is listed as below.<br />
 
 Command:<br />
-	Edit1.py:  
-	python edit.py<br />
-	Edit2.py:  
-	python edit.py [-option] < [Input file]<br />
+	Edit1.py:  python edit.py<br />
+	Edit2.py:  python edit.py [-option] < [Input file]<br />
 
 Option:<br />
 f: remove space before first character<br />
