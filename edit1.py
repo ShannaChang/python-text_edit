@@ -62,7 +62,7 @@ try:
         for line in fopen:
             if f>0:
                 line = line.lstrip()
-            if e>01:
+            if e>0:
                 line = line.replace(" ", "").replace('\t', "").replace('\n', "")
             if a>0:
                 line = line.rstrip()
